@@ -49,7 +49,7 @@
     }
   },
   "image": "heroku/ruby",
-  "addons": [ "heroku-redis", "heroku-postgresql"],
+  "addons": [ "", ""],
   "buildpacks": [
     {
       "url": "heroku/ruby"
